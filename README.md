@@ -5,12 +5,12 @@
 | Boran Kahraman, Artificial Intelligence and Data Engineering #2 | [*LinkedIn*](https://www.linkedin.com/in/boran-kahraman-41670b225/) | kahramanb21@itu.edu.tr |
 | Buse Orak, Computer Engineering #2 | [*LinkedIn*](https://www.linkedin.com/in/buseorak/) | orakb21@itu.edu.tr |
 
-### Prerequisities
+## Prerequisities
 * Knowledge on basic concepts of programming
 * Curiosity to learn about the main concepts of Object Oriented Programming
 * Interest in applying those concepts using the Java programming language
 
-### Goals
+## Goals
 
 * Gaining knowledge on programming concepts that are specific to Java
 * Understanding the basic concepts of Object Oriented Programming with Java
@@ -20,7 +20,7 @@
     * Polymorphism
     * Abstraction
 
-### Syllabus
+## Syllabus
 
 | Week | Topic | Description | Date and Time |
 | :------------: | :------------: | :------------: | :------------: |
@@ -31,7 +31,7 @@
 
 <p align="center"><b>The lectures will be given for about 1.5-2 hours every Thursay at 18.00 in the ITU Faculty of Electrical and Electronics Engineering building.</b></p>
 
-# Important Links
+## Important Links
 
 * [Oğuz Aslantürk - Java ile Nesneye Yönelik Programlama](https://web.cs.hacettepe.edu.tr/~bbm102/misc/java_notes_by_oa.pdf)
 
@@ -39,7 +39,7 @@
 
 * [javaTpoint](https://www.javatpoint.com/java-tutorial)
 
-# Suggested Readings
+## Suggested Readings
 
 * Java - An Introduction to Problem Solving and Programming, Walter Savitch, Pearson, 2012
 * Java - How to Program, Paul Deitel and Harvey Deitel, Prentice Hall, 2012
