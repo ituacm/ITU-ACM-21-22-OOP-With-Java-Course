@@ -23,10 +23,10 @@
 
 | Week | Topic | Description | Date and Time |
 | :------------: | :------------: | :------------: | :------------: |
-| Week #1 | Introduction to Java and Basic Syntax | Java Programming Language and JVM, Standard Input/Output, Primitive and Non-Primitive Data Types, Declaring and Initializing Variables, Reserved Words, Arrays, Conditions, For Loops, While Loops, Switch-Cases, Methods | 09.12.2021 |
-| Week #2 |  OOP-1 | Relationship between Classes and Objects, instanceof Operator, Fields and Methods, Constructors, Constructor Chaining, Encapsulation | 16.12.2021 |
-| Week #3 | OOP-2 | Inheritance, Method Overriding, Delegation, Abstraction | 23.12.2021 |
-| Week #4 | OOP-3 | Polymorphism, Crossover and Dynamic Binding, Downcasting, Abstract Classes and Methods, Interfaces, Generic Classes and Methods | 30.12.2021 |
+| Week #1 | Introduction to Java and Basic Syntax | Java Programming Language and JVM, Standard Input/Output, Primitive and Non-Primitive Data Types, Declaring and Initializing Variables, Reserved Words, Arrays, Conditions, For Loops, While Loops, Switch-Cases, Methods | 16.12.2021 |
+| Week #2 |  OOP-1 | Relationship between Classes and Objects, instanceof Operator, Fields and Methods, Constructors, Constructor Chaining, Encapsulation | 23.12.2021 |
+| Week #3 | OOP-2 | Inheritance, Method Overriding, Delegation, Abstraction | 30.12.2021 |
+| Week #4 | OOP-3 | Polymorphism, Crossover and Dynamic Binding, Downcasting, Abstract Classes and Methods, Interfaces, Generic Classes and Methods | 06.01.2021 |
 
 <p align="center"><b>Lessons will be around 1:30 - 2 hours</b></p>
 
