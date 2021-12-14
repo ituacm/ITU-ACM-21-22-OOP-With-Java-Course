@@ -34,10 +34,9 @@
 ## Important Links
 
 * [Oğuz Aslantürk - Java ile Nesneye Yönelik Programlama](https://web.cs.hacettepe.edu.tr/~bbm102/misc/java_notes_by_oa.pdf)
-
 * [Oracle Java Documentation](https://docs.oracle.com/javase/tutorial/)
-
 * [javaTpoint](https://www.javatpoint.com/java-tutorial)
+* [IntelliJ IDEA Installation Guide](https://www.jetbrains.com/help/idea/installation-guide.html#standalone)
 
 ## Suggested Readings
 
