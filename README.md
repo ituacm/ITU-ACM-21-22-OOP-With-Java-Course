@@ -24,12 +24,12 @@
 
 | Week | Topic | Description | Date and Time |
 | :------------: | :------------: | :------------: | :------------: |
-| Week #1 | Introduction to Java and Basic Syntax | Java Programming Language and JVM, Standard Input/Output, Primitive and Non-Primitive Data Types, Declaring and Initializing Variables, Reserved Words, Arrays, Conditions, For Loops, While Loops, Switch-Cases, Methods, Method Overloading | 16.12.2021 |
-| Week #2 |  OOP-1 | Relationship between Classes and Objects, Fields and Methods, Constructors, Constructor Chaining, Encapsulation | 23.12.2021 |
-| Week #3 | OOP-2 | Inheritance, Method Overriding, Delegation, Polymorphism, Exceptions and Exception Handling, File I/O | 30.12.2021 |
-| Week #4 | OOP-3 | Crossover and Dynamic Binding, Downcasting, Abstraction, Abstract Classes and Methods, Interfaces, Generic Classes and Methods | 06.01.2021 |
+| Week #1 | Introduction to Java and Basic Syntax | Java Programming Language and JVM, Standard Input/Output, Primitive and Non-Primitive Data Types, Declaring and Initializing Variables, Reserved Words, Arrays, Conditions, For Loops, While Loops, Switch-Cases, Methods, Method Overloading | 16.12.2021 18.00 |
+| Week #2 |  OOP-1 | Relationship between Classes and Objects, Fields and Methods, Constructors, Constructor Chaining, Encapsulation | 23.12.2021 18.00 |
+| Week #3 | OOP-2 | Inheritance, Method Overriding, Delegation, Polymorphism, Exceptions and Exception Handling, File I/O | 30.12.2021 18.00 |
+| Week #4 | OOP-3 | Crossover and Dynamic Binding, Downcasting, Abstraction, Abstract Classes and Methods, Interfaces, Generic Classes and Methods | 06.01.2021 18.00 |
 
-<p align="center"><b>The lectures will be given for about 1.5-2 hours every Thursay at 18.00 in the ITU Faculty of Electrical and Electronics Engineering building.</b></p>
+<p align="center"><b>The lectures will be given for about 1.5-2 hours every Thursay in the ITU Faculty of Electrical and Electronics Engineering building.</b></p>
 
 ## Important Links
 
